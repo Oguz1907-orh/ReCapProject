@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Cars]
+(
+	[CarId] INT NOT NULL PRIMARY KEY,
+	[CarName] NVARCHAR(15) NOT NULL,
+	[ModelYear] NVARCHAR(4) NOT NULL
+
+);
