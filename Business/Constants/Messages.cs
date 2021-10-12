@@ -27,6 +27,7 @@ namespace Business.Constants
         public static string CarIsNotAvailable = "Car is Not available";
         public static string UserAdded = "User Added";
         public static string UserListed = "User Listed";
+        public static string LimitExceeded = "Daha fazla görsel eklenemez..";
 
 
 
